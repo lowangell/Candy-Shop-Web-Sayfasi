@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "676846a39a2e63d9c7dafbe9"
+  },
+  "name": "Çikolata",
+  "price": 150,
+  "description": "Cikolatalar",
+  "stock": 0,
+  "category": "Çikolata",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676846bb9a2e63d9c7dafbeb"
+  },
+  "name": "Akide Şekeri",
+  "price": 100,
+  "description": "akide şekeri",
+  "stock": 0,
+  "category": "şekerler",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676846e89a2e63d9c7dafbef"
+  },
+  "name": "Jelibon",
+  "price": 55,
+  "description": "jelibonlar",
+  "stock": 0,
+  "category": "şekerler",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67684c649a2e63d9c7dafc91"
+  },
+  "name": "Lokum",
+  "price": 150,
+  "description": "lokum",
+  "stock": 0,
+  "category": "Lokum",
+  "__v": 0
+}]
